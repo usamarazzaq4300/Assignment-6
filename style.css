@@ -1,0 +1,143 @@
+#one{
+    background-color:black;
+    z-index: 10;
+}
+#second{
+    background-color: black;
+    padding-bottom: 15px;
+}
+#third{
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+#two{
+    color: white;
+    margin-top: 25px;
+    font-size: 30px;
+    font-weight: 600;
+}
+li{
+    display: inline;
+    font-size: 16px;
+    margin-right: 15px;
+    font-weight: 700;
+}
+.one:link{
+    color:rgb(186,186,186);
+
+}
+.one:hover{
+    color: rgb(221, 216, 216);
+    text-decoration: none;
+}
+.two:hover{
+    text-decoration: none;
+    color: rgb(50,109,229) ;
+}
+#three{
+    color: white;
+    font-size: 30px;
+}
+#four{
+    font-size: 15px;
+    color:white;
+    
+}
+#five{
+    font-size: 15px;
+    color:white;
+}
+#six:link{
+    color: white;
+    border-bottom: white;
+}
+#seven{
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    color: white;
+}
+#eight{
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: white;
+
+}
+#nine{
+    text-align: center;
+}
+#ten{
+    color: white;
+    background-color: rgb(50,109,229);
+    padding: 3px 22px 3px 22px;
+    border: 1px solid rgb(50,109,229);
+    border-radius: 5px;
+    font-size: 18px;
+}
+#eleven{
+    padding-top: 60px;
+}
+#twelve{
+    padding-top: 90px;
+    padding-left: 50px;
+}
+#thirteen{
+    font-size: 22px;
+    margin-top: 36px;
+}
+#fourteen{
+    font-size: 15px;
+}
+#fivteen:link{
+    color: white;
+    background-color: rgb(48,48,48);
+    font-size: 14px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+
+}
+#sixteen:link{
+    background-color: white;
+    color:  rgb(50,109,229);
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+}
+.features:link{
+    color:  rgb(50,109,229);
+    font-size: 25px;
+}
+}
+#features{
+    font-size: 18px;
+    text-align: left;
+    padding-top: 15px;
+}
+#ninteen{
+    color:  black;
+    font-size: 25px;
+
+}
+.read:link{
+    color: rgb(50,109,229);
+    font: 25px;
+
+}
+#footer{
+
+    display: inline;
+    margin-right: 140px;
+}
+.footer:link{
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+}
+@media screen and (max-width:700px)
+{
+    #babylon{
+        width: 50%;
+    }
+}
